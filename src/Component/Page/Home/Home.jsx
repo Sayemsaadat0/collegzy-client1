@@ -1,10 +1,11 @@
 import Container from "../../../Container/Container";
+import Search from "./Search";
 
 const Home = () => {
     return (
         <Container >
-            <div className="bg-slate-200 px-2">
-                home
+            <div className="px-2">
+                <Search></Search>
             </div>
         </Container>
     );

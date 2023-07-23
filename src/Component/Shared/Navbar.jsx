@@ -5,22 +5,25 @@ import { useState } from "react";
 const Navbar = () => {
     const [navbar, setNavbar] = useState(false);
     const navOptions = <div className="flex flex-col md:flex-row items-center gap-4">
-        <NavLink
+        <NavLink 
+        to='/'
             className=" hover:text-indigo-300">
             Home
         </NavLink>
 
-        <NavLink
+        <NavLink to='dfh'
             className=" hover:text-indigo-300">
             Colleges
         </NavLink>
 
-        <NavLink
+        <NavLink 
+        to='fjh'
             className=" hover:text-indigo-300">
             Admission
         </NavLink>
 
-        <NavLink
+        <NavLink 
+        to='dfjg'
             className=" hover:text-indigo-300">
             My College
         </NavLink>

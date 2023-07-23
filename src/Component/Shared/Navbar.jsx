@@ -5,8 +5,8 @@ import { useState } from "react";
 const Navbar = () => {
     const [navbar, setNavbar] = useState(false);
     const navOptions = <div className="flex flex-col md:flex-row items-center gap-4">
-        <NavLink 
-        to='/'
+        <NavLink
+            to='/'
             className=" hover:text-indigo-300">
             Home
         </NavLink>
@@ -16,14 +16,14 @@ const Navbar = () => {
             Colleges
         </NavLink>
 
-        <NavLink 
-        to='fjh'
+        <NavLink
+            to='fjh'
             className=" hover:text-indigo-300">
             Admission
         </NavLink>
 
-        <NavLink 
-        to='dfjg'
+        <NavLink
+            to='dfjg'
             className=" hover:text-indigo-300">
             My College
         </NavLink>
@@ -75,28 +75,32 @@ const Navbar = () => {
                     <div>
                         <div
                             className={`flex-1 justify-self-center pb-3 mt-8 md:block md:pb-0 md:mt-0 ${navbar ? "block" : "hidden"
-                                }`}
-                        >
+                                }`}>
+                           
                             <ul className=" items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
                                 {navOptions}
-                            </ul>
-
+                            </ul> 
                             <div className="mt-3 space-y-2 md:hidden sm:inline-block">
                                 <Link
-                                    className="px-4 py-2 btn w-full"
-                                >
+                                    className="px-4 py-2 btn w-full" >
                                     Sign in
                                 </Link>
-
                             </div>
                         </div>
                     </div>
-                    <div className="hidden space-x-2 md:inline-block ">
+                    <div className="hidden space-x-2 md:inline-block">
                         <Link
-                            className="px-4 py-2 btn"
-                        >
+                            className="px-4 py-2 btn">
                             Sign in
                         </Link>
+
+                        <div className="dropdown dropdown-bottom dropdown-end">
+                            <label tabIndex={0} className="btn btn-outline m-1">Name</label>
+                            <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52 border">
+                                <li ><a>Profile</a></li>
+                                <li ><a>Log out</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </nav>

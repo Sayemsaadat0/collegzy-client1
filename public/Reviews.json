@@ -1,0 +1,51 @@
+[
+    {
+      "_id": "64bcfc35e1f91573b29a48b6",
+      "image": "https://i.ibb.co/qWqBS0g/4.png",
+      "ratings": 4.5,
+      "name": "Stella Poole",
+      "details": "I absolutely love my new XYZ Smartphone! The camera quality is outstanding, and the battery life lasts all day, even with heavy usratings. The phone's performance is smooth, and I'm impressed with the sleek design. Highly recommended!"
+    },
+    {
+      "_id": "64bcfc35f4cb882dde760c89",
+      "image": "https://i.ibb.co/xgFQr3R/3.png",
+      "ratings": 3,
+      "name": "Bridget Camacho",
+      "details": "I had a great experience at ABC Fitness Center. The trainers were knowledgeable and supportive, and the facilities were clean and well-maintained. The only reason I'm not giving it a full 5 stars is that the class schedule could be more varied"
+    },
+    {
+      "_id": "64bcfc35c1ccfd6869de492b",
+      "image": "https://i.ibb.co/nrHBchj/download-2.jpg",
+      "ratings": 4.6,
+      "name": "Janelle Mcdaniel",
+      "details": "Taste of Italy is hands down the best Italian restaurant in town! The food is authentic and bursting with flavors. The staff is friendly, and the ambiance is cozy and inviting. Don't miss out on their tiramisu; it's heavenly!"
+    },
+    {
+      "_id": "64bcfc3557f94940d8e9ce6e",
+      "image": "https://i.ibb.co/9nDqS3g/Zoro-Stickers-for-Sale.jpg",
+      "ratings": 5,
+      "name": "Catalina Duke",
+      "details": "Serene View Resort offers breathtaking views and a peaceful atmosphere. The room was comfortable, and the staff was polite and helpful. I had a fantastic stay overall. My only suggestion is to improve the Wi-Fi connection,."
+    },
+    {
+      "_id": "64bcfc3526aab3df0622fea0",
+      "image": "https://i.ibb.co/tJ2RvvM/5.png",
+      "ratings": 4,
+      "name": "Kris Curry",
+      "details": "Nulla ut id laborum duis do proident duis consequat ad minim. Reprehenderit excepteur duis nulla enim aliqua id proident id tempor eu officia.xcepteur duis nulla enim   "
+    },
+    {
+      "_id": "64bcfc352cf35bcc8b377573",
+      "image": "https://i.ibb.co/nwvN0QZ/2.png",
+      "ratings": 5,
+      "name": "Campos English",
+      "details": "The PQR Vacuum Cleaner is powerful and efficiently cleans all surfaces. It's lightweight and easy to maneuver. My only gripe is that the dust container could be larger, as I find myself emptying it frequently during extended cleaning sessions."
+    },
+    {
+      "_id": "64bcfc35751bb5df28491a22",
+      "image": "https://i.ibb.co/swGMcgL/image.jpg",
+      "ratings": 5,
+      "name": "Levine Hoover",
+      "details": "The LMN Wireless Earbuds sound quality is excellent, and they fit comfortably in my ears. I appreciate the long battery life and the charging case. My only minor complaint is that the touch controls can be a bit finicky at times"
+    }
+  ]

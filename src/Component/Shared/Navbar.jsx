@@ -11,7 +11,7 @@ const Navbar = () => {
             Home
         </NavLink>
 
-        <NavLink to='dfh'
+        <NavLink to='/colleges'
             className=" hover:text-indigo-300">
             Colleges
         </NavLink>

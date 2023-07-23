@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
-import Container from "../../../Container/Container";
+import { Link } from "react-router-dom";
+import Container from "../../../../Container/Container";
 
 const Best3Colleges = () => {
     const [colleges, setColleges] = useState([]);
@@ -27,7 +28,7 @@ const Best3Colleges = () => {
                                 <div className="badge badge-outline">Sports</div>
                             </div>
                             <div className="card-actions w-full">
-                                <button className="btn w-full">Details</button>
+                                <Link to='/details' className="btn w-full">Details</Link>
                             </div>
                         </div>
                     </div>

@@ -1,5 +1,6 @@
 import Masonry, { ResponsiveMasonry } from "react-responsive-masonry"
 import Container from "../../../../Container/Container";
+import SectionTitle from "../../../Shared/SectionTitle/SectionTitle";
 
 const Gallary = () => {
 
@@ -13,12 +14,16 @@ const Gallary = () => {
         "https://i.ibb.co/m0R9Z3f/faf-3.png",
         "https://i.ibb.co/84Y1DcP/rewrewr-3.png",
         "https://i.ibb.co/WBHhHf1/faf-2.png"
-      
-       
+
+
 
     ]
     return (
         <Container>
+            <div className="text-center mt-20 mb-20">
+                <SectionTitle title={'Captured Moments'}
+                    subTitle={`Immerse in a stunning display of captivating moments, where each photo tells a unique and compelling story`}> </SectionTitle>
+            </div>
             <ResponsiveMasonry
                 columnsCountBreakPoints={{ 350: 1, 750: 2, 900: 3 }}
             >

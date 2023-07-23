@@ -1,8 +1,18 @@
 import { Link, NavLink } from "react-router-dom";
 import Container from "../../Container/Container";
-import { useState } from "react";
+import { useContext, useState } from "react";
+import { AuthContext } from "../../Provider/AuthProvider";
 
 const Navbar = () => {
+    const { user, logout } = useContext(AuthContext)
+
+    const handlelogout = () => {
+        logout()
+            .then()
+            .catch(error => {
+                console.log(error)
+            })
+    }
     const [navbar, setNavbar] = useState(false);
     const navOptions = <div className="flex flex-col md:flex-row items-center gap-4">
         <NavLink
@@ -17,7 +27,7 @@ const Navbar = () => {
         </NavLink>
 
         <NavLink
-            to='fjh'
+            to='/admission'
             className=" hover:text-indigo-300">
             Admission
         </NavLink>
@@ -30,7 +40,7 @@ const Navbar = () => {
     </div>
     return (
         <Container>
-            <nav className="w-full shadow">
+            <nav className="w-full shadow  bg-transparent">
                 <div className="justify-between mx-auto  md:items-center md:flex max-w-screen-2xl px-2">
                     <div>
                         <div className="flex items-center justify-between py-3 md:py-5 md:block">
@@ -76,10 +86,10 @@ const Navbar = () => {
                         <div
                             className={`flex-1 justify-self-center pb-3 mt-8 md:block md:pb-0 md:mt-0 ${navbar ? "block" : "hidden"
                                 }`}>
-                           
+
                             <ul className=" items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
                                 {navOptions}
-                            </ul> 
+                            </ul>
                             <div className="mt-3 space-y-2 md:hidden sm:inline-block">
                                 <Link
                                     className="px-4 py-2 btn w-full" >
@@ -89,11 +99,10 @@ const Navbar = () => {
                         </div>
                     </div>
                     <div className="hidden space-x-2 md:inline-block">
-                        <Link
+                        <Link to='/login'
                             className="px-4 py-2 btn">
-                            Sign in
+                           LOgin
                         </Link>
-
                         <div className="dropdown dropdown-bottom dropdown-end">
                             <label tabIndex={0} className="btn btn-outline m-1">Name</label>
                             <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52 border">

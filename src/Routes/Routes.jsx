@@ -4,6 +4,9 @@ import Home from "../Component/Page/Home/Home";
 import ErrorPage from "../Component/Shared/ErrorPage/ErrorPage";
 import Best3CollegeDetails from "../Component/Page/Home/Best3Colleges/Best3CollegeDetails";
 import Colleges from "../Component/Page/Colleges/Colleges";
+import Admission from "../Component/Page/Admission/Admission";
+import Login from "../Authentication/Login/Login";
+import Register from "../Authentication/Register/Register";
 
 
 
@@ -23,10 +26,22 @@ import Colleges from "../Component/Page/Colleges/Colleges";
         },
         {
             path : '/colleges',
-            element: <Colleges>ss</Colleges>
+            element: <Colleges></Colleges>
+        },
+        {
+            path : '/admission',
+            element: <Admission></Admission>
         }
       ]
     },
+    {
+      path: 'login',
+      element: <Login></Login>
+    },
+    {
+      path: 'register',
+      element: <Register></Register>
+    }
   ]);
 
 

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import Container from "../../../../Container/Container";
+import SectionTitle from "../../../Shared/SectionTitle/SectionTitle";
 
 const Best3Colleges = () => {
     const [colleges, setColleges] = useState([]);
@@ -13,6 +14,10 @@ const Best3Colleges = () => {
 
     return (
         <Container>
+            <div className="text-center mt-20 mb-20">
+                <SectionTitle title={'A Closer Look at the Best Colleges'}
+                    subTitle={'Explore the top-rated colleges and universities, offering exceptional education and unique opportunities for academic and personal growth.'}> </SectionTitle>
+            </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-20">
                 {colleges.map((college) => (
                     <div key={college._id} className="card card-compact bg-base-100 shadow-lg shadow-purple-200 hover:bg-blue-100 text-center">

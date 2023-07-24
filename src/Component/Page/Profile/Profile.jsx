@@ -6,7 +6,7 @@ const Profile = () => {
 
   useEffect(() => {
     // Fetch user profile data from the server
-    fetch("http://localhost:5000/admission")
+    fetch("https://collegey-server.vercel.app/admission")
       .then((response) => response.json())
       .then((data) => {
         // Assuming the data returned by the server is an array of user profiles

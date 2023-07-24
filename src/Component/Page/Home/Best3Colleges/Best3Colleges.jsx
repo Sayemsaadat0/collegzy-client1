@@ -9,7 +9,7 @@ const Best3Colleges = () => {
   console.log(search);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/college?collegeName=${search}`)
+    fetch(`https://collegey-server.vercel.app/college?collegeName=${search}`)
       .then((res) => res.json())
       .then((data) => setColleges(data));
   }, [search]);

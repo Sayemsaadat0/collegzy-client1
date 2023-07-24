@@ -18,7 +18,7 @@ const Register = () => {
         createUser(email, password)
             .then(result => {
                 const createduser = result.user
-             
+                console.log(createduser);
                 form.reset()
             })
             .catch(error => {

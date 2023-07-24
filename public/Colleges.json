@@ -1,362 +1,353 @@
 [
-    {
-      "_id": "64bcd2cb3c079ebc51df1d74",
-      "image": "https://i.ibb.co/8msm9rc/3.png",
-      "college_name": "Rajuk Uttara Model College, Dhaka",
-      "admission_date": "2019-02-28",
-      "details": "With this end in view, Rajuk Uttara Model College has opened a website so that everybody including students and ex-students of this college can be well informed.",
-      "admission_process": [
-        "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
-        "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
-        "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
-        "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
-        "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
-        "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
-        "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
-        "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
-      ],
-      "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
-      "event_details": [
-        "Orientation Week",
-        "Academic Conferences",
-        "Cultural and Diversity Celebrations",
-        "Sports Tournaments",
-        "Charity and Fundraising Events"
-      ],
-      "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
-      "research_work": [
-        "The Impact of Climate Change on Global Biodiversity",
-        "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
-        "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
-      ],
-      "research_count": 1200,
-      "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
-      "sports_category": [
-        "Motor Sports",
-        "Winter Sports",
-        "Athletics",
-        "Combat Sports",
-        "Team Sports"
-      ]
-    },
-    {
-      "_id": "64bcd2cb06250c1acbd52168",
-      "image": "https://i.ibb.co/RPbnP62/1.png",
-      "college_name": "Rajshahi College, Rajshahi",
-      "admission_date": "2019-10-19",
-      "details": "It stood consecutively 4 times as the best educational institution of the country at college level organized by the Ministry of Education, and 3 times First in the ranking of National University all over Bangladesh. On behalf of Rajshahi College, Principal hearty congratulates and extends his best wishes to all of its well-wishers.",
-      "admission_process": [
-        "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
-        "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
-        "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
-        "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
-        "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
-        "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
-        "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
-        "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
-      ],
-      "events": "In cupidatat excepteur minim occaecat irure aute esse reprehenderit consectetur tempor labore consequat. Eiusmod exercitation excepteur irure pariatur sit do fugiat elit in labore sint nostrud esse dolore. Commodo excepteur sit voluptate esse est voluptate nostrud aliquip fugiat consectetur non do. Irure id cillum cillum culpa. Cillum ullamco ut nisi reprehenderit.\r\n",
-      "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
-      "research_work": [
-        "The Impact of Climate Change on Global Biodiversity",
-        "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
-        "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
-      ],
-      "research_count": 1500,
-      "sports": "Aliquip ex laboris eiusmod aliquip cillum fugiat sit magna consequat dolor in anim anim. Dolor qui est incididunt exercitation et deserunt dolore aliqua officia enim elit veniam mollit sunt. Et mollit culpa dolore amet consectetur deserunt. Reprehenderit consequat laboris anim irure et pariatur ipsum ullamco occaecat.\r\n",
-      "event_details": [
-        "Orientation Week",
-        "Academic Conferences",
-        "Cultural and Diversity Celebrations",
-        "Sports Tournaments",
-        "Charity and Fundraising Events"
-      ],
-      "sports_category": [
-        "Motor Sports",
-        "Winter Sports",
-        "Athletics",
-        "Combat Sports",
-        "Team Sports"
-      ]
-    },
-    {
-      "_id": "64bcd2cb991203eefedd4d87",
-      "image": "https://i.ibb.co/gTyRQhL/2.png",
-      "college_name": "Notredame College, Dhaka",
-      "admission_date": "2018-12-01",
-      "details": "Welcome to Notre Dame College, an educational institute founded and administered by the Congregation of Holy Cross which has been serving the nation with a long-standing tradition of excellence in academics, Science, Business, and Arts.",
-      "admission_process": [
-        "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
-        "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
-        "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
-        "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
-        "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
-        "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
-        "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
-        "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
-      ],
-      "events": "Aliqua proident velit do mollit qui nostrud amet esse aute ad irure officia consectetur minim. Proident adipisicing deserunt Lorem amet laborum dolor. Qui non mollit Lorem fugiat consectetur eiusmod velit veniam qui et sint dolor qui in.",
-      "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
-      "research_work": [
-        "The Impact of Climate Change on Global Biodiversity",
-        "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
-        "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
-      ],
-      "research_count": 2000,
-      "sports": "Reprehenderit cupidatat do officia eiusmod fugiat pariatur. Ipsum voluptate ea cillum ea velit. Do tempor enim veniam qui enim laborum qui ex id irure cupidatat id. Nulla non fugiat elit dolor voluptate et adipisicing ipsum deserunt adipisicing ex qui. Proident veniam ullamco et culpa mollit deserunt dolor aliqua culpa tempor.",
-      "event_details": [
-        "Orientation Week",
-        "Academic Conferences",
-        "Cultural and Diversity Celebrations",
-        "Sports Tournaments",
-        "Charity and Fundraising Events"
-      ],
-      "sports_category": [
-        "Motor Sports",
-        "Winter Sports",
-        "Athletics",
-        "Combat Sports",
-        "Team Sports"
-      ]
-    },
-    {
-      "_id": "64bcd2cb562dc35eeedc8f4e",
-      "image": "https://i.ibb.co/0GWtqhY/1.png",
-      "college_name": "Barisal College, Barisal",
-      "admission_date": "2020-12-05",
-      "details": "Barisal College, situated in the city of Barisal, is a renowned institution known for its commitment to providing quality education. It offers various academic programs and is dedicated to promoting a culture of creativity and critical thinking.",
-      "admission_process": [
-        "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
-        "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
-        "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
-        "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
-        "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
-        "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
-        "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
-        "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
-      ],
-      "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
-      "event_details": [
-        "Orientation Week",
-        "Academic Conferences",
-        "Cultural and Diversity Celebrations",
-        "Sports Tournaments",
-        "Charity and Fundraising Events"
-      ],
-      "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
-      "research_work": [
-        "The Impact of Climate Change on Global Biodiversity",
-        "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
-        "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
-      ],
-      "research_count": 800,
-      "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
-      "sports_category": [
-        "Motor Sports",
-        "Winter Sports",
-        "Athletics",
-        "Combat Sports",
-        "Team Sports"
-      ]
-    },
-    {
-      "_id": "64bcd2cb562dc35eeedc8f4f",
-      "image": "https://i.ibb.co/6m70hML/2.png",
-      "college_name": "Sylhet College, Sylhet",
-      "admission_date": "2021-02-25",
-      "details": "Sylhet College, located in the city of Sylhet, is a well-established educational institution known for its academic excellence and diverse learning opportunities. It offers various programs and is committed to promoting research and innovation.",
-      "admission_process": [
-        "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
-        "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
-        "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
-        "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
-        "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
-        "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
-        "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
-        "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
-      ],
-      "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
-      "event_details": [
-        "Orientation Week",
-        "Academic Conferences",
-        "Cultural and Diversity Celebrations",
-        "Sports Tournaments",
-        "Charity and Fundraising Events"
-      ],
-      "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
-      "research_work": [
-        "The Impact of Climate Change on Global Biodiversity",
-        "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
-        "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
-      ],
-      "research_count": 2500,
-      "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
-      "sports_category": [
-        "Motor Sports",
-        "Winter Sports",
-        "Athletics",
-        "Combat Sports",
-        "Team Sports"
-      ]
-    },
-    {
-      "_id": "64bcd2cb562dc35eeedc8f51",
-      "image": "https://i.ibb.co/3zDCdL7/3.png",
-      "college_name": "Comilla College, Comilla",
-      "admission_date": "2020-07-15",
-      "details": "Comilla College, situated in the city of Comilla, is a prestigious educational institution known for its academic excellence and inclusive learning environment. It offers a wide range of academic programs and encourages students to engage in extracurricular activities.",
-      "admission_process": [
-        "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
-        "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
-        "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
-        "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
-        "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
-        "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
-        "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
-        "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
-      ],
-      "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
-      "event_details": [
-        "Orientation Week",
-        "Academic Conferences",
-        "Cultural and Diversity Celebrations",
-        "Sports Tournaments",
-        "Charity and Fundraising Events"
-      ],
-      "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
-      "research_work": [
-        "The Impact of Climate Change on Global Biodiversity",
-        "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
-        "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
-      ],
-      "research_count": 600,
-      "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
-      "sports_category": [
-        "Motor Sports",
-        "Winter Sports",
-        "Athletics",
-        "Combat Sports",
-        "Team Sports"
-      ]
-    },
-    {
-      "_id": "64bcd2cb562dc35eeedc8f52",
-      "image": "https://i.ibb.co/Z8dG0qv/4.png",
-      "college_name": "Mymensingh College, Mymensingh",
-      "admission_date": "2021-08-28",
-      "details": "Mymensingh College, located in the city of Mymensingh, is a renowned educational institution known for its academic excellence and dedication to holistic student development. It offers diverse academic programs and encourages students to participate in community engagement initiatives.",
-      "admission_process": [
-        "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
-        "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
-        "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
-        "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
-        "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
-        "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
-        "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
-        "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
-      ],
-      "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
-      "event_details": [
-        "Orientation Week",
-        "Academic Conferences",
-        "Cultural and Diversity Celebrations",
-        "Sports Tournaments",
-        "Charity and Fundraising Events"
-      ],
-      "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
-      "research_work": [
-        "The Impact of Climate Change on Global Biodiversity",
-        "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
-        "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
-      ],
-      "research_count": 1800,
-      "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
-      "sports_category": [
-        "Motor Sports",
-        "Winter Sports",
-        "Athletics",
-        "Combat Sports",
-        "Team Sports"
-      ]
-    },
-    {
-      "_id": "64bcd2cb562dc35eeedc8f53",
-      "image": "https://i.ibb.co/2ZQBDc7/5.png",
-      "college_name": "Chittagong College, Chittagong",
-      "admission_date": "2021-06-12",
-      "details": "Chittagong College, situated in the city of Chittagong, is a prestigious educational institution with a strong emphasis on academic excellence and research-oriented learning. It offers a wide range of academic programs and encourages students to engage in social service activities.",
-      "admission_process": [
-        "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
-        "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
-        "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
-        "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
-        "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
-        "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
-        "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
-        "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
-      ],
-      "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
-      "event_details": [
-        "Orientation Week",
-        "Academic Conferences",
-        "Cultural and Diversity Celebrations",
-        "Sports Tournaments",
-        "Charity and Fundraising Events"
-      ],
-      "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
-      "research_work": [
-        "The Impact of Climate Change on Global Biodiversity",
-        "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
-        "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
-      ],
-      "research_count": 900,
-      "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
-      "sports_category": [
-        "Motor Sports",
-        "Winter Sports",
-        "Athletics",
-        "Combat Sports",
-        "Team Sports"
-      ]
-    },
-    {
-      "_id": "64bcd2cb562dc35eeedc8f54",
-      "image": "https://i.ibb.co/GRNHgty/6.png",
-      "college_name": "Khulna College, Khulna",
-      "admission_date": "2022-01-10",
-      "details": "Khulna College, located in the city of Khulna, is a well-established educational institution known for its dedication to providing quality education and promoting a culture of academic excellence. It offers diverse academic programs and fosters a spirit of innovation and entrepreneurship.",
-      "admission_process": [
-        "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
-        "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
-        "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
-        "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
-        "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
-        "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
-        "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
-        "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
-      ],
-      "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
-      "event_details": [
-        "Orientation Week",
-        "Academic Conferences",
-        "Cultural and Diversity Celebrations",
-        "Sports Tournaments",
-        "Charity and Fundraising Events"
-      ],
-      "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
-      "research_work": [
-        "The Impact of Climate Change on Global Biodiversity",
-        "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
-        "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
-      ],
-      "research_count": 1000,
-      "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
-      "sports_category": [
-        "Motor Sports",
-        "Winter Sports",
-        "Athletics",
-        "Combat Sports",
-        "Team Sports"
-      ]
-    }
-  ]
+  {
+    "image": "https://i.ibb.co/8msm9rc/3.png",
+    "college_name": "Rajuk Uttara Model College, Dhaka",
+    "admission_date": "2019-02-28",
+    "details": "With this end in view, Rajuk Uttara Model College has opened a website so that everybody including students and ex-students of this college can be well informed.",
+    "admission_process": [
+      "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
+      "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
+      "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
+      "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
+      "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
+      "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
+      "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
+      "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
+    ],
+    "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
+    "event_details": [
+      "Orientation Week",
+      "Academic Conferences",
+      "Cultural and Diversity Celebrations",
+      "Sports Tournaments",
+      "Charity and Fundraising Events"
+    ],
+    "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
+    "research_work": [
+      "The Impact of Climate Change on Global Biodiversity",
+      "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
+      "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
+    ],
+    "research_count": 1200,
+    "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
+    "sports_category": [
+      "Motor Sports",
+      "Winter Sports",
+      "Athletics",
+      "Combat Sports",
+      "Team Sports"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/RPbnP62/1.png",
+    "college_name": "Rajshahi College, Rajshahi",
+    "admission_date": "2019-10-19",
+    "details": "It stood consecutively 4 times as the best educational institution of the country at college level organized by the Ministry of Education, and 3 times First in the ranking of National University all over Bangladesh. On behalf of Rajshahi College, Principal hearty congratulates and extends his best wishes to all of its well-wishers.",
+    "admission_process": [
+      "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
+      "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
+      "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
+      "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
+      "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
+      "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
+      "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
+      "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
+    ],
+    "events": "In cupidatat excepteur minim occaecat irure aute esse reprehenderit consectetur tempor labore consequat. Eiusmod exercitation excepteur irure pariatur sit do fugiat elit in labore sint nostrud esse dolore. Commodo excepteur sit voluptate esse est voluptate nostrud aliquip fugiat consectetur non do. Irure id cillum cillum culpa. Cillum ullamco ut nisi reprehenderit.\r\n",
+    "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
+    "research_work": [
+      "The Impact of Climate Change on Global Biodiversity",
+      "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
+      "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
+    ],
+    "research_count": 1500,
+    "sports": "Aliquip ex laboris eiusmod aliquip cillum fugiat sit magna consequat dolor in anim anim. Dolor qui est incididunt exercitation et deserunt dolore aliqua officia enim elit veniam mollit sunt. Et mollit culpa dolore amet consectetur deserunt. Reprehenderit consequat laboris anim irure et pariatur ipsum ullamco occaecat.\r\n",
+    "event_details": [
+      "Orientation Week",
+      "Academic Conferences",
+      "Cultural and Diversity Celebrations",
+      "Sports Tournaments",
+      "Charity and Fundraising Events"
+    ],
+    "sports_category": [
+      "Motor Sports",
+      "Winter Sports",
+      "Athletics",
+      "Combat Sports",
+      "Team Sports"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/gTyRQhL/2.png",
+    "college_name": "Notredame College, Dhaka",
+    "admission_date": "2018-12-01",
+    "details": "Welcome to Notre Dame College, an educational institute founded and administered by the Congregation of Holy Cross which has been serving the nation with a long-standing tradition of excellence in academics, Science, Business, and Arts.",
+    "admission_process": [
+      "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
+      "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
+      "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
+      "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
+      "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
+      "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
+      "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
+      "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
+    ],
+    "events": "Aliqua proident velit do mollit qui nostrud amet esse aute ad irure officia consectetur minim. Proident adipisicing deserunt Lorem amet laborum dolor. Qui non mollit Lorem fugiat consectetur eiusmod velit veniam qui et sint dolor qui in.",
+    "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
+    "research_work": [
+      "The Impact of Climate Change on Global Biodiversity",
+      "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
+      "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
+    ],
+    "research_count": 2000,
+    "sports": "Reprehenderit cupidatat do officia eiusmod fugiat pariatur. Ipsum voluptate ea cillum ea velit. Do tempor enim veniam qui enim laborum qui ex id irure cupidatat id. Nulla non fugiat elit dolor voluptate et adipisicing ipsum deserunt adipisicing ex qui. Proident veniam ullamco et culpa mollit deserunt dolor aliqua culpa tempor.",
+    "event_details": [
+      "Orientation Week",
+      "Academic Conferences",
+      "Cultural and Diversity Celebrations",
+      "Sports Tournaments",
+      "Charity and Fundraising Events"
+    ],
+    "sports_category": [
+      "Motor Sports",
+      "Winter Sports",
+      "Athletics",
+      "Combat Sports",
+      "Team Sports"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/0GWtqhY/1.png",
+    "college_name": "Barisal College, Barisal",
+    "admission_date": "2020-12-05",
+    "details": "Barisal College, situated in the city of Barisal, is a renowned institution known for its commitment to providing quality education. It offers various academic programs and is dedicated to promoting a culture of creativity and critical thinking.",
+    "admission_process": [
+      "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
+      "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
+      "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
+      "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
+      "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
+      "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
+      "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
+      "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
+    ],
+    "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
+    "event_details": [
+      "Orientation Week",
+      "Academic Conferences",
+      "Cultural and Diversity Celebrations",
+      "Sports Tournaments",
+      "Charity and Fundraising Events"
+    ],
+    "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
+    "research_work": [
+      "The Impact of Climate Change on Global Biodiversity",
+      "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
+      "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
+    ],
+    "research_count": 800,
+    "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
+    "sports_category": [
+      "Motor Sports",
+      "Winter Sports",
+      "Athletics",
+      "Combat Sports",
+      "Team Sports"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/6m70hML/2.png",
+    "college_name": "Sylhet College, Sylhet",
+    "admission_date": "2021-02-25",
+    "details": "Sylhet College, located in the city of Sylhet, is a well-established educational institution known for its academic excellence and diverse learning opportunities. It offers various programs and is committed to promoting research and innovation.",
+    "admission_process": [
+      "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
+      "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
+      "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
+      "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
+      "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
+      "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
+      "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
+      "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
+    ],
+    "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
+    "event_details": [
+      "Orientation Week",
+      "Academic Conferences",
+      "Cultural and Diversity Celebrations",
+      "Sports Tournaments",
+      "Charity and Fundraising Events"
+    ],
+    "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
+    "research_work": [
+      "The Impact of Climate Change on Global Biodiversity",
+      "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
+      "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
+    ],
+    "research_count": 2500,
+    "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
+    "sports_category": [
+      "Motor Sports",
+      "Winter Sports",
+      "Athletics",
+      "Combat Sports",
+      "Team Sports"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/3zDCdL7/3.png",
+    "college_name": "Comilla College, Comilla",
+    "admission_date": "2020-07-15",
+    "details": "Comilla College, situated in the city of Comilla, is a prestigious educational institution known for its academic excellence and inclusive learning environment. It offers a wide range of academic programs and encourages students to engage in extracurricular activities.",
+    "admission_process": [
+      "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
+      "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
+      "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
+      "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
+      "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
+      "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
+      "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
+      "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
+    ],
+    "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
+    "event_details": [
+      "Orientation Week",
+      "Academic Conferences",
+      "Cultural and Diversity Celebrations",
+      "Sports Tournaments",
+      "Charity and Fundraising Events"
+    ],
+    "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
+    "research_work": [
+      "The Impact of Climate Change on Global Biodiversity",
+      "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
+      "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
+    ],
+    "research_count": 600,
+    "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
+    "sports_category": [
+      "Motor Sports",
+      "Winter Sports",
+      "Athletics",
+      "Combat Sports",
+      "Team Sports"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Z8dG0qv/4.png",
+    "college_name": "Mymensingh College, Mymensingh",
+    "admission_date": "2021-08-28",
+    "details": "Mymensingh College, located in the city of Mymensingh, is a renowned educational institution known for its academic excellence and dedication to holistic student development. It offers diverse academic programs and encourages students to participate in community engagement initiatives.",
+    "admission_process": [
+      "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
+      "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
+      "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
+      "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
+      "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
+      "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
+      "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
+      "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
+    ],
+    "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
+    "event_details": [
+      "Orientation Week",
+      "Academic Conferences",
+      "Cultural and Diversity Celebrations",
+      "Sports Tournaments",
+      "Charity and Fundraising Events"
+    ],
+    "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
+    "research_work": [
+      "The Impact of Climate Change on Global Biodiversity",
+      "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
+      "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
+    ],
+    "research_count": 1800,
+    "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
+    "sports_category": [
+      "Motor Sports",
+      "Winter Sports",
+      "Athletics",
+      "Combat Sports",
+      "Team Sports"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/2ZQBDc7/5.png",
+    "college_name": "Chittagong College, Chittagong",
+    "admission_date": "2021-06-12",
+    "details": "Chittagong College, situated in the city of Chittagong, is a prestigious educational institution with a strong emphasis on academic excellence and research-oriented learning. It offers a wide range of academic programs and encourages students to engage in social service activities.",
+    "admission_process": [
+      "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
+      "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
+      "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
+      "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
+      "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
+      "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
+      "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
+      "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
+    ],
+    "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
+    "event_details": [
+      "Orientation Week",
+      "Academic Conferences",
+      "Cultural and Diversity Celebrations",
+      "Sports Tournaments",
+      "Charity and Fundraising Events"
+    ],
+    "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
+    "research_work": [
+      "The Impact of Climate Change on Global Biodiversity",
+      "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
+      "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
+    ],
+    "research_count": 900,
+    "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
+    "sports_category": [
+      "Motor Sports",
+      "Winter Sports",
+      "Athletics",
+      "Combat Sports",
+      "Team Sports"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/GRNHgty/6.png",
+    "college_name": "Khulna College, Khulna",
+    "admission_date": "2022-01-10",
+    "details": "Khulna College, located in the city of Khulna, is a well-established educational institution known for its dedication to providing quality education and promoting a culture of academic excellence. It offers diverse academic programs and fosters a spirit of innovation and entrepreneurship.",
+    "admission_process": [
+      "Create an Account: Applicants create a secure account on the college website by providing their email address and setting up a password.",
+      "Fill out the Online Application: Using their account credentials, applicants complete the online application form. This form collects personal details, educational background, intended major, and any other necessary information.",
+      "Pay Application Fee: After submitting the application form, applicants are directed to a secure payment portal to pay the application fee, if applicable.",
+      "Submit Supporting Documents: Applicants are instructed on how to submit supporting documents, such as high school transcripts, standardized test scores, recommendation letters, and essays. This can be done either through an online upload feature or by mail.",
+      "Track Application Status: Applicants can log in to their account to check the status of their application and whether any documents are pending.",
+      "Admission Decision: Once the admission committee reviews the applications, applicants are notified of the admission decision via email or through their account on the college website.",
+      "Acceptance and Enrollment: Accepted students receive an official acceptance letter and are required to confirm their enrollment by a specified deadline. They may need to submit a deposit to secure their spot.",
+      "Preparing for College: The college provides accepted students with information about orientation, housing options, course registration, and other preparations for their academic journey."
+    ],
+    "events": "Laborum in non officia proident veniam deserunt nulla. Culpa velit occaecat id sunt deserunt cupidatat et sint sint. Do commodo occaecat deserunt do labore adipisicing non fugiat non irure esse laborum. Exercitation fugiat ut id consequat culpa amet. Aute fugiat duis enim ea. Labore nulla in culpa dolore ex incididunt ipsum ea.",
+    "event_details": [
+      "Orientation Week",
+      "Academic Conferences",
+      "Cultural and Diversity Celebrations",
+      "Sports Tournaments",
+      "Charity and Fundraising Events"
+    ],
+    "research_history": "The research history section summarizes prior studies, traces historical development, highlights key concepts, and establishes the context for the current study.",
+    "research_work": [
+      "The Impact of Climate Change on Global Biodiversity",
+      "Artificial Intelligence in Healthcare: Applications, Challenges, and Ethical Considerations",
+      "The Role of Social Media in Political Mobilization: Case Studies of Recent Elections"
+    ],
+    "research_count": 1000,
+    "sports": "Sint dolore laborum magna reprehenderit dolore irure veniam cillum sint est irure. Aute ipsum eiusmod amet non aliqua .",
+    "sports_category": [
+      "Motor Sports",
+      "Winter Sports",
+      "Athletics",
+      "Combat Sports",
+      "Team Sports"
+    ]
+  }
+]

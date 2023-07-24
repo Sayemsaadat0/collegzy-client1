@@ -4,7 +4,8 @@ import { useContext, useState } from "react";
 import { AuthContext } from "../../Provider/AuthProvider";
 
 const Navbar = () => {
-    const { user, logout } = useContext(AuthContext)
+    const { user, logout } = useContext(AuthContext) 
+    console.log(user);
 
     const handlelogout = () => {
         logout()
@@ -33,7 +34,7 @@ const Navbar = () => {
         </NavLink>
 
         <NavLink
-            to='dfjg'
+            to='/mycollege'
             className=" hover:text-indigo-300">
             My College
         </NavLink>
@@ -98,19 +99,23 @@ const Navbar = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="hidden space-x-2 md:inline-block">
-                        <Link to='/login'
-                            className="px-4 py-2 btn">
-                           LOgin
-                        </Link>
-                        <div className="dropdown dropdown-bottom dropdown-end">
-                            <label tabIndex={0} className="btn btn-outline m-1">Name</label>
-                            <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52 border">
-                                <li ><a>Profile</a></li>
-                                <li ><a>Log out</a></li>
-                            </ul>
+                    {
+                        user ? <div>
+                            <div className="dropdown dropdown-bottom dropdown-end">
+                                <label tabIndex={0} className="btn btn-outline m-1">display Name</label>
+                                <ul tabIndex={0} className="dropdown-content z-[1] menu border rounded-box w-[120%] ">
+                                    <Link className="btn mb-2" to=''>Profile</Link >
+                                    <button className="btn " onClick={handlelogout}>Log out</button>
+                                </ul>
+                            </div>
+                        </div> : <div className="hidden space-x-2 md:inline-block">
+                            <Link to='/login'
+                                className="px-4 py-2 btn">
+                                Login
+                            </Link>
                         </div>
-                    </div>
+
+                    }
                 </div>
             </nav>
         </Container>

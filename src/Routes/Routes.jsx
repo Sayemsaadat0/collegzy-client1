@@ -8,6 +8,7 @@ import Admission from "../Component/Page/Admission/Admission";
 import Login from "../Authentication/Login/Login";
 import Register from "../Authentication/Register/Register";
 import MyCollege from "../Component/Page/MyCollege/MyCollege";
+import PrivateRoute from "./PrivateRoutes";
 
 const router = createBrowserRouter([
   {
@@ -21,7 +22,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/details/:id",
-        element: <Best3CollegeDetails></Best3CollegeDetails>,
+        element: <PrivateRoute><Best3CollegeDetails></Best3CollegeDetails>,</PrivateRoute>,
         loader: ({ params }) =>
           fetch(`http://localhost:5000/college/${params.id}`),
       },

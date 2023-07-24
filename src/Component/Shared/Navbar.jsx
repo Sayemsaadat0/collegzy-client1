@@ -104,7 +104,7 @@ const Navbar = () => {
                             <div className="dropdown dropdown-bottom dropdown-end">
                                 <label tabIndex={0} className="btn btn-outline m-1">display Name</label>
                                 <ul tabIndex={0} className="dropdown-content z-[1] menu border rounded-box w-[120%] ">
-                                    <Link className="btn mb-2" to=''>Profile</Link >
+                                    <Link className="btn mb-2" to='/profile'>Profile</Link >
                                     <button className="btn " onClick={handlelogout}>Log out</button>
                                 </ul>
                             </div>
